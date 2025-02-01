@@ -1,0 +1,45 @@
+.container{
+    place-items:center;
+    width: 1228px;
+    height: 519px;
+    top: -664px;
+    left: -1344px;
+}
+.container2{
+    display:grid;
+    grid-template:1fr 1fr 1fr / 1fr 1fr 1fr 1fr;
+    place-content: center;
+    width:1,166px;
+    height:457px;
+    top: 31px;
+    left: 31px;
+    gap: 50px;
+    opacity: 0px;
+}
+.card{
+    width:254px;
+    height:457px;
+}
+img{
+    width: 254px;
+    height: 365px;
+    border-radius: 9px 9px 9px 9px;
+}
+.text{
+    width: 195px;
+    height: 70px;
+    font-family: Metropolis;
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 35px;
+    letter-spacing: 1px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+}
+.ArrowCircleRight{
+    width: 30.83px;
+    height: 30.83px;
+    top: 3.08px;
+    left: 3.08px;
+}
